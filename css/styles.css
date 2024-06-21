@@ -1,0 +1,80 @@
+h1{
+	font-family: "Lobster", sans-serif;
+	color: #d08c03 !important;
+}
+
+h2{
+	font-family: "Lobster", sans-serif;
+	color: white!important;
+}
+
+body{
+	background-color:#213a3a !important;
+}
+
+
+
+
+
+p{
+	font-family: "Montserrat", sans-serif;
+	color: white;
+}
+
+a{
+	font-family: "Montserrat", sans-serif;
+	color: white;
+}
+
+hr.line{
+	border: 4px solid #d08c03;
+    border-radius: 5px; 
+    opacity: 1.0;
+    width: 50%; 
+    margin: auto;
+    margin-top:2%;
+    margin-bottom:2%;
+}
+
+
+.col-12{
+	background-color: #213a3a;
+	padding: 5px;
+	
+}
+
+.navbar{
+	background-color: #d08c03;
+}
+
+.nav-item{
+	color: white;
+}
+
+
+	
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.storydiv {
+	margin: auto;
+	width: 75%;
+	
+}
+
+.logoOL {
+	width: 10%;
+	height: auto;
+	
+	
+}
+
+.bordervalue{
+	border-color: #d08c03;
+	
+	
+}
